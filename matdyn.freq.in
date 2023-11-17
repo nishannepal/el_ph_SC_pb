@@ -1,0 +1,8 @@
+&input            
+     asr='simple',
+     amass(1)=207.2,
+     flfrc='Pb222.fc',
+     flfrq='Pb222.freq',
+     la2F=.true.,
+     dos=.false.
+/ 21

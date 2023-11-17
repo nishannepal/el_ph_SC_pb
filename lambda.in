@@ -1,0 +1,9 @@
+10  0.12  1    !emax (something more than highest phonon mode in THz), degauss, smearing method
+     3
+     0.000000000   0.000000000   0.000000000 1
+     0.500000000  -0.500000000   0.500000000 4
+     0.000000000  -1.000000000   0.000000000 3  ! q-points and their weight
+ elph_dir/elph.inp_lambda.1 ! elph output file names,
+ elph_dir/elph.inp_lambda.2 ! in the same order as the q-points before
+ elph_dir/elph.inp_lambda.3
+ 0.10     
